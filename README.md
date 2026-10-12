@@ -1,6 +1,6 @@
 # advertisement.sucks
 
-**A vending machine that sells its own shelves.**
+**A digital vending machine where brands can buy advertising slots.**
 
 An interactive advertising experiment built by [0xDominoGirl](https://github.com/0xDominoGirl).
 
